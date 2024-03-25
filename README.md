@@ -1,1 +1,1 @@
-# hello-github-1
+# hello-git-and-github-1
