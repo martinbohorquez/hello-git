@@ -6,7 +6,7 @@
 
 _Alianza Lima_ **UNI**
 
-[GitHub Foundations Certification Course] (https://www.youtube.com/watch?v=Jdc0i7RcBv8&list=PLqALE1ZZLUAwlpRXUxCh2T2Mg8WSIrrMS&index=7&ab_channel=freeCodeCamp.org)
+[GitHub Foundations Certification Course](https://www.youtube.com/watch?v=Jdc0i7RcBv8&list=PLqALE1ZZLUAwlpRXUxCh2T2Mg8WSIrrMS&index=7&ab_channel=freeCodeCamp.org)
 
 | __Alumno__ | __Profesor__ | __Materia__ |
 | --- | --- | --- |
