@@ -15,7 +15,7 @@ _Alianza Lima_ **UNI**
 ### Hello Markdown
 
 | __Alumno__ | __Profesor__ | __Materia__ |
-| --- | --- | --- |
+| - | - | - |
 | Jose Luis | Luis Montes | Gestion de Proyectos |
 | David F. | Daniel Diaz | Redes |
 
